@@ -2,6 +2,12 @@
 
 Simple JavaScript library to encode/decode Base64.
 
+Examples:
+
+To Encode: Base64.encode('textToEncode'); (returns dGV4dFRvRW5jb2Rl)
+
+To Decode: Base64.decode('dGV4dFRvRW5jb2Rl'); (returns textToEncode)
+
 Plnkr: http://plnkr.co/edit/u5EetU?p=preview
 
 Version:
